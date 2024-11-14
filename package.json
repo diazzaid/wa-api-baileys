@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "express": "^4.21.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
